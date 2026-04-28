@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SVG animated header — no external image dependency -->
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0f0c29"/>
@@ -23,7 +23,7 @@
   <path class="wv" d="M0,155 C200,120 400,185 600,150 C750,125 840,160 900,155 L900,200 L0,200 Z" fill="rgba(167,139,250,0.13)"/>
   <text class="title" x="450" y="88" font-family="'Segoe UI',Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Gautam Sharma</text>
   <text class="sub"  x="450" y="128" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#a78bfa" text-anchor="middle" letter-spacing="1">Full-Stack Developer · Java &amp; Spring Boot · MCA Student</text>
-</svg>
+</svg> -->
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MCA+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Applications+%F0%9F%9A%80;Clean+Code+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
@@ -38,11 +38,11 @@
 
 ---
 
-## 📈 Contribution Graph
 
 
 
----
+
+
 
 ## 📊 GitHub Stats
 
