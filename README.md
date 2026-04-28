@@ -40,11 +40,7 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
 
-[![Gautam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GautamSharma16&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=302b63&hide_border=true&custom_title=Gautam%27s%20Contribution%20Graph%202025)](https://github.com/GautamSharma16)
-
-</div>
 
 ---
 
